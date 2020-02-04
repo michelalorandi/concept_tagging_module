@@ -24,10 +24,6 @@ was O O
 in O O
 twilight B-movie.name B-movie.name
 
-who O O
-is O O
-in O O
-movie B-movie.name O
 
 actor O O
 from O O
@@ -83,17 +79,6 @@ thirteen I-movie.name I-movie.name
 's O O
 cast O O
 
-search O O
-for O O
-information O O
-about O O
-the O O
-cast O O
-and O O
-crew O O
-of O O
-apollo B-movie.name B-movie.name
-thirteen I-movie.name I-movie.name
 
 i O O
 would O O
@@ -123,17 +108,7 @@ for O O
 finding B-movie.name B-movie.name
 nemo I-movie.name I-movie.name
 
-actor O O
-from O O
-GPE B-movie.name B-country.name
 
-list O O
-actors O O
-in O O
-the O O
-movie O O
-the B-movie.name B-movie.name
-campaign I-movie.name I-movie.name
 
 dirty B-movie.name B-movie.name
 dancing I-movie.name I-movie.name
@@ -232,26 +207,7 @@ in O O
 pretty B-movie.name B-movie.name
 women I-movie.name I-movie.name
 
-what O O
-are O O
-the O O
-actors O O
-names O O
-and O O
-star O O
-in O O
-finding B-movie.name B-movie.name
-nemo I-movie.name I-movie.name
 
-searching O O
-for O O
-names O O
-of O O
-crew O O
-members O O
-of O O
-apollo B-movie.name B-movie.name
-thirteen I-movie.name I-movie.name
 
 budget O O
 for O O
@@ -419,17 +375,6 @@ budget O O
 for O O
 spaceballs B-movie.name B-movie.name
 
-how O O
-many O O
-movies O O
-has O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-been O O
-the O O
-lead O O
-actor O O
-in O O
 
 how O O
 many O O
@@ -484,23 +429,6 @@ has O O
 paramount B-producer.name B-producer.name
 done O O
 
-i O O
-would O O
-like O O
-to O O
-know O O
-the O O
-name O O
-of O O
-the O O
-country O O
-from O O
-where O O
-the O O
-movie O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
-comes O O
 
 what O O
 country O O
@@ -527,23 +455,11 @@ the O O
 movie O O
 made O O
 
-what O O
-country O O
-did O O
-shindler B-movie.name B-movie.name
-'s I-movie.name I-movie.name
-list I-movie.name I-movie.name
-come O O
-from O O
 
 origin O O
 of O O
 titanic B-movie.name B-movie.name
 
-origin O O
-of O O
-PERSON B-movie.name B-person.name
-PERSON I-movie.name I-person.name
 
 when O O
 will O O
@@ -559,12 +475,6 @@ date O O
 for O O
 casino B-movie.name B-movie.name
 
-when O O
-did O O
-will B-actor.name B-person.name
-ferrell I-actor.name I-person.name
-voice O O
-acting O O
 
 show O O
 me O O
@@ -602,16 +512,6 @@ titanic B-movie.name B-movie.name
 was O O
 released O O
 
-what O O
-year O O
-did O O
-the O O
-italian B-country.name B-country.name
-movie O O
-resident B-movie.name B-movie.name
-evil I-movie.name I-movie.name
-come O O
-out O O
 
 can O O
 you O O
@@ -692,11 +592,6 @@ finding B-movie.name B-movie.name
 nemo I-movie.name I-movie.name
 released O O
 
-release O O
-date O O
-of O O
-PERSON B-movie.name B-person.name
-PERSON I-movie.name I-person.name
 
 when O O
 was O O
@@ -812,18 +707,6 @@ heroine B-movie.name B-movie.name
 come O O
 out O O
 
-when O O
-did O O
-the O O
-house B-movie.name B-movie.name
-at I-movie.name I-movie.name
-the I-movie.name I-movie.name
-end I-movie.name I-movie.name
-of I-movie.name I-movie.name
-the I-movie.name I-movie.name
-street I-movie.name I-movie.name
-in O O
-theaters O O
 
 what O O
 PERSON O O
@@ -833,24 +716,7 @@ size I-movie.name O
 coming O O
 out O O
 
-what O O
-day O O
-will O O
-barfi B-movie.name B-movie.name
-! I-movie.name I-movie.name
-come O O
-out O O
 
-when O O
-will O O
-i O B-movie.name
-be O O
-out O O
-to O O
-view O O
-iron B-movie.name B-movie.name
-man I-movie.name I-movie.name
-3 I-movie.name I-movie.name
 
 on O O
 what O O
@@ -885,14 +751,6 @@ of O O
 black B-movie.name B-movie.name
 swan I-movie.name I-movie.name
 
-who O O
-is O O
-the O O
-director O O
-of O O
-sleepless B-movie.name B-movie.name
-in I-movie.name I-movie.name
-GPE I-movie.name I-movie.name
 
 find O O
 who O O
@@ -928,18 +786,7 @@ avengers B-movie.name B-movie.name
 movie O O
 director O O
 
-rating O O
-of O O
-movie O O
-avengers B-movie.name B-movie.name
 
-who O O
-was O O
-the O O
-director O O
-for O O
-finding B-movie.name B-movie.name
-nemo I-movie.name I-movie.name
 
 director O O
 for O O
@@ -1044,19 +891,7 @@ of O O
 the B-movie.name B-movie.name
 words I-movie.name I-movie.name
 
-who O O
-directed O O
-million B-movie.name I-movie.gross_revenue
-or I-movie.name I-movie.gross_revenue
-more I-movie.name I-movie.gross_revenue
 
-who O O
-was O O
-the O O
-guy O O
-that O O
-directed O O
-movies B-movie.name O
 
 who O O
 did O O
@@ -1073,13 +908,6 @@ who O O
 directed O O
 twilight B-movie.name B-movie.name
 
-who O O
-is O O
-the O O
-director O O
-of O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
 
 look O O
 for O O
@@ -1119,10 +947,6 @@ of O O
 freedom B-movie.name B-movie.name
 writers I-movie.name I-movie.name
 
-who O O
-directed O O
-finding B-movie.name B-movie.name
-nemo I-movie.name I-movie.name
 
 godfather B-movie.name B-movie.name
 director O O
@@ -1165,13 +989,6 @@ avengers B-movie.name B-movie.name
 director O O
 name O O
 
-name O O
-the O O
-director O O
-in O O
-sleepless B-movie.name B-movie.name
-in I-movie.name I-movie.name
-GPE I-movie.name I-movie.name
 
 what O O
 's O O
@@ -1227,13 +1044,6 @@ lawless B-movie.name B-movie.name
 belongs O O
 to O O
 
-genre O O
-for O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
-and I-movie.name I-movie.name
-the I-movie.name I-movie.name
-huntsman I-movie.name I-movie.name
 
 what O O
 is O O
@@ -1241,12 +1051,6 @@ the O O
 movie O O
 type O O
 
-what O O
-'s O O
-the O O
-genre O O
-of O O
-grease B-movie.name B-movie.name
 
 get O O
 the O O
@@ -1345,22 +1149,12 @@ movie O O
 hero B-movie.name B-movie.name
 in O I-movie.name
 
-language O O
-of O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
 
 language O O
 of O O
 casa B-movie.name B-movie.name
 blanca I-movie.name I-movie.name
 
-what O O
-language O O
-is O O
-ju B-movie.name B-movie.name
-on I-movie.name I-movie.name
-in O O
 
 language O O
 of O O
@@ -1378,20 +1172,6 @@ children I-movie.name I-movie.name
 is O O
 in O O
 
-i O O
-am O O
-interested O O
-in O O
-finding O O
-out B-movie.name O
-what O O
-foreign O O
-language O O
-is O O
-the O O
-movie O O
-available O O
-in O O
 
 i O O
 need O O
@@ -1415,27 +1195,7 @@ some O O
 japanese B-movie.language B-movie.language
 movies O O
 
-director B-producer.name O
-'s I-producer.name O
-name O O
-some O O
-of O O
-the O O
-movies O O
-he O O
-produce O O
 
-tell O O
-me O O
-the O O
-names O O
-of O O
-the O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
 about O O
 life B-movie.name B-movie.name
@@ -1458,12 +1218,6 @@ find O O
 movie O O
 ratings O O
 
-find O O
-movies O O
-released O O
-movies O O
-in O O
-spanish B-movie.language B-movie.language
 
 was O O
 bill B-actor.name B-actor.name
@@ -1474,14 +1228,6 @@ movie O O
 apollo B-movie.name B-movie.name
 thirteen I-movie.name I-movie.name
 
-was O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-in O O
-the O O
-movie O O
-apollo B-movie.name B-movie.name
-thirteen I-movie.name I-movie.name
 
 find O O
 movies O O
@@ -1515,23 +1261,7 @@ find O O
 russian B-movie.language B-movie.language
 movies O O
 
-show O O
-me O O
-the O O
-movie O O
-pretty B-movie.name B-movie.name
-women B-movie.name I-movie.name
-can O O
-i O O
-can O O
-see O O
-who O O
-starred O O
-in O O
-the O O
-movie O O
 
-movies B-movie.name O
 
 the O O
 movie O O
@@ -1539,31 +1269,9 @@ is O I-movie.name
 called O I-movie.name
 big B-movie.name I-movie.name
 
-will B-actor.name B-actor.name
-smith I-actor.name I-actor.name
-acting O O
-for O O
 
-how O O
-many O O
-movies O O
-did O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-do O O
 
-movies O O
-and O O
-gross O O
-revenue O O
 
-search O O
-for O O
-warner B-director.name B-producer.name
-brothers I-director.name I-producer.name
-movies O O
-in O O
-french B-movie.language B-movie.language
 
 exhibit O O
 all O O
@@ -1604,36 +1312,9 @@ movie O O
 finding B-movie.name B-movie.name
 nemo I-movie.name I-movie.name
 
-what O O
-did O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-direct O O
 
-show O O
-me O O
-some O O
-other O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-display O O
-information B-actor.name O
-for I-actor.name O
-movie O O
 
-show O O
-a O O
-movie O O
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-in O O
-the O O
-cast O O
 
 what O O
 other O O
@@ -1643,38 +1324,9 @@ PERSON B-director.name B-director.name
 PERSON I-director.name I-director.name
 directed O O
 
-what O O
-movies O O
-has O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
-produced O O
 
-what O O
-has O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-starred O O
-in O O
 
-please O O
-find O O
-the O O
-movies O O
-in O O
-which O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-has O O
-appeared O O
 
-in O O
-which O O
-movies O O
-has O O
-PERSON B-actor.name B-director.name
-PERSON I-actor.name I-director.name
-directed O O
 
 PERSON B-director.name B-director.name
 PERSON I-director.name I-director.name
@@ -1731,15 +1383,6 @@ made O O
 in O O
 GPE B-country.name B-country.name
 
-are O O
-there O O
-any O O
-movies O O
-produced O O
-in O O
-the B-country.name O
-movie B-country.name O
-hitch I-country.name B-movie.name
 
 show O O
 english B-movie.language B-movie.language
@@ -1778,25 +1421,8 @@ of O O
 horror B-movie.genre B-movie.genre
 movies O O
 
-show O O
-actor O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-movies O O
 
-which O O
-movies O O
-did O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-PERSON O O
-in O O
 
-list O O
-movies O O
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
 show O O
 me O O
@@ -1894,47 +1520,17 @@ movie O O
 in O O
 french B-movie.language B-movie.language
 
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-movies O O
 
-find O O
-movies O O
-with O O
-PERSON B-director.name B-actor.name
-PERSON I-director.name I-actor.name
-as O O
-director O O
 
-what B-country.name O
-movies O O
 
-what B-country.name O
-movies O O
-please O O
 
-find O O
-french B-actor.name B-movie.language
-language I-actor.name I-movie.language
-movies O O
 
-show O O
-me O O
-what O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-directed O O
 
 get O O
 films O O
 in O O
 hindi B-movie.language B-movie.language
 
-show O O
-me O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
 what O O
 is O O
@@ -1958,14 +1554,6 @@ french B-movie.language B-movie.language
 language I-movie.language I-movie.language
 comedies B-movie.genre B-movie.genre
 
-look O O
-for O O
-dirty B-movie.name B-movie.name
-dancing I-movie.name I-movie.name
-movie O O
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
 tell O O
 me O O
@@ -2016,19 +1604,7 @@ PERSON B-producer.name B-producer.name
 PERSON I-producer.name I-producer.name
 produced O O
 
-find O O
-me O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
-what O O
-movies O O
-has O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-been O O
-in O O
 
 dirty B-movie.name B-movie.name
 dancing I-movie.name I-movie.name
@@ -2049,14 +1625,7 @@ about O O
 dirty B-movie.name B-movie.name
 dancing I-movie.name I-movie.name
 
-movies O O
-from O O
-GPE B-country.name B-country.name
 
-show O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
 list O O
 japanese B-movie.language B-country.name
@@ -2162,61 +1731,17 @@ has O O
 paramount B-producer.name B-producer.name
 released O O
 
-show O O
-all O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
-show O O
-me O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
 is O O
 parenthood B-movie.name B-movie.name
 a O O
 drama B-movie.genre B-movie.genre
 
-i O O
-want O O
-to O O
-see O O
-an O O
-PERSON B-actor.name B-director.name
-PERSON I-actor.name I-director.name
-PERSON O O
-tonight O O
 
-find O O
-films O O
-from O O
-GPE B-country.name B-country.name
 
-get O O
-films O O
-from O O
-GPE B-country.name B-country.name
 
-i O O
-'d O O
-like O O
-to O O
-watch O O
-a O O
-movie O O
-made O O
-in O O
-GPE B-country.name B-country.name
 
-list O O
-some O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
 chinese B-movie.language B-country.name
 films O O
@@ -2247,17 +1772,6 @@ are O O
 rated O O
 pg-13 B-rating.name B-rating.name
 
-i O O
-need O O
-a O O
-g B-rating.name B-rating.name
-rating O O
-can O O
-i O O
-can O O
-take O O
-the O O
-kids O O
 
 find O O
 a O O
@@ -2347,11 +1861,6 @@ any O O
 other O O
 musicals O B-movie.genre
 
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
-produced O O
-movie O O
-listing O O
 
 what O O
 was O O
@@ -2375,48 +1884,10 @@ british B-country.name B-country.name
 made O O
 movies O O
 
-movies O O
-from O O
-the B-country.name B-country.name
-GPE I-country.name I-country.name
 
-find O O
-me O O
-movies O O
-from O O
-the B-country.name B-country.name
-GPE I-country.name I-country.name
 
-can O O
-you O O
-list O O
-star B-producer.name B-movie.name
-wars I-producer.name I-movie.name
-movie O O
-production O O
 
-i O O
-need O O
-to O O
-know O O
-the O O
-movies O O
-produce O O
-by O O
-PERSON B-producer.name B-director.name
-PERSON I-producer.name I-director.name
 
-did O O
-clint B-director.name B-director.name
-eastwood I-director.name I-director.name
-direct O O
-any O O
-other O O
-movies O O
-three O B-movie.gross_revenue
-million B-movie.name I-movie.gross_revenue
-or I-movie.name I-movie.gross_revenue
-more I-movie.name I-movie.gross_revenue
 
 find O O
 movies O O
@@ -2458,39 +1929,8 @@ by O O
 clint B-director.name B-director.name
 eastwood I-director.name I-director.name
 
-find O O
-all O O
-films O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-i O O
-want O O
-to O O
-select O O
-the O O
-option O O
-to O O
-search O O
-for O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
-i O O
-would O O
-like O O
-to O O
-search O O
-for O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
 show O O
 me O O
@@ -2498,75 +1938,16 @@ japanese B-movie.language B-country.name
 horror B-movie.genre B-movie.genre
 movies O O
 
-i O O
-would O O
-like O O
-to O O
-see O O
-movies O O
-starring B-director.name O
-PERSON I-director.name B-actor.name
-PERSON O I-actor.name
 
-movies O O
-by O O
-PERSON B-producer.name B-director.name
-PERSON I-director.name I-director.name
 
-movies O O
-by O O
-PERSON B-producer.name B-director.name
-PERSON I-director.name I-director.name
 
-what O O
-movies O O
-did O O
-PERSON B-producer.name B-director.name
-PERSON I-director.name I-director.name
-direct O O
 
-list O O
-PERSON B-director.name B-actor.name
-PERSON I-director.name I-actor.name
-movies O O
 
-PERSON B-director.name B-actor.name
-PERSON I-director.name I-actor.name
-PERSON O O
 
-show B-director.name O
-spielberg I-director.name B-director.name
-movies O O
-please O O
 
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-find O O
-the O O
-director B-director.name O
-PERSON I-director.name B-person.name
-PERSON O I-person.name
 
-find O O
-movies O O
-from O O
-PERSON B-director.name B-producer.name
-PERSON I-director.name I-producer.name
 
-i O O
-would O O
-like O O
-to O O
-watch O O
-a O O
-movie O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
 the B-movie.name B-movie.name
 camp I-movie.name I-movie.name
@@ -2578,47 +1959,10 @@ the B-movie.name B-movie.name
 blind I-movie.name I-movie.name
 side I-movie.name I-movie.name
 
-i O O
-want O O
-to O O
-see O O
-movies O O
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
-list O O
-movies O O
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
-look O O
-for O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
-can O O
-you O O
-show O O
-me O O
-movies O O
-that O O
-were O O
-made O O
-in O O
-GPE B-country.name B-country.name
 
-find O O
-me O O
-any O O
-movies O O
-that O O
-were O O
-made O O
-in O O
-GPE B-country.name B-country.name
 
 french B-movie.language B-country.name
 movies O O
@@ -2655,13 +1999,6 @@ PERSON O O
 first O O
 movie O O
 
-get O O
-me O O
-movies O O
-directed O O
-by O O
-in B-director.name B-movie.name
-july I-director.name I-movie.name
 
 PERSON B-actor.name B-actor.name
 PERSON I-actor.name I-actor.name
@@ -2695,39 +2032,9 @@ oliver B-director.name B-director.name
 stone I-director.name I-director.name
 please O O
 
-i O O
-want O O
-to O O
-look O O
-for O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
-what O O
-are O O
-all O O
-of O O
-the O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
-what O O
-did O O
-brad B-producer.name B-actor.name
-pitt I-producer.name I-actor.name
-movies O O
 
 bring O O
 up O O
@@ -2737,50 +2044,10 @@ pitt I-producer.name I-producer.name
 produced O O
 movies O O
 
-show O O
-all O O
-movies O O
-that O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-directed O O
 
-i O O
-need O O
-a O O
-list O O
-of O O
-all O O
-the O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-give O O
-me O O
-a O O
-list O O
-of O O
-all O O
-the O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-show B-producer.name O
-me I-producer.name O
-movies O O
-produced O O
 
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
 what O O
 films O O
@@ -2851,15 +2118,7 @@ the B-movie.name B-movie.name
 campaign I-movie.name I-movie.name
 information O O
 
-more O O
-information O O
-on O O
-PERSON B-movie.name B-person.name
-PERSON I-movie.name I-person.name
 
-of O O
-apollo B-movie.name B-movie.name
-thirteen I-movie.name I-movie.name
 
 has O O
 PERSON B-actor.name B-actor.name
@@ -2877,13 +2136,6 @@ PERSON B-actor.name B-actor.name
 PERSON I-actor.name I-actor.name
 movies O O
 
-what O O
-movies O O
-has O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-starred O O
-in O O
 
 lionsgate B-producer.name B-producer.name
 movies O O
@@ -2899,39 +2151,10 @@ by O O
 production O O
 lionsgate B-producer.name B-producer.name
 
-give O O
-me O O
-something O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-show O O
-me B-director.name O
-PERSON I-director.name B-movie.genre
-movie O O
 
-what O O
-film O O
-did O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-direct O O
 
-which O O
-movies O O
-have O O
-been O O
-made O O
-outside O B-movie.name
-the B-country.name I-movie.name
-law I-country.name I-movie.name
-from I-country.name O
 
-find O O
-me O O
-pg B-country.name B-rating.name
-movies O O
 
 display O O
 7 B-producer.name O
@@ -2950,15 +2173,6 @@ benigni I-actor.name I-actor.name
 star O O
 in O O
 
-i O O
-want O O
-to O O
-see O O
-movies O O
-starring O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-please O O
 
 list O O
 the O O
@@ -2966,33 +2180,8 @@ PERSON B-actor.name B-movie.name
 's O I-movie.name
 movie O O
 
-i O O
-want O O
-to O O
-watch O O
-a O O
-drama B-movie.genre B-movie.genre
-made O O
-in O O
-GPE B-country.name B-country.name
 
-what B-actor.name O
-actors I-actor.name O
-played O O
-in O O
-what O O
-movies O O
 
-show O O
-me O O
-all O O
-of O O
-the O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
 show O O
 PERSON B-director.name B-director.name
@@ -3020,18 +2209,6 @@ PERSON B-director.name B-director.name
 PERSON I-director.name I-director.name
 directed O O
 
-where O O
-can O O
-i O O
-find O O
-a O O
-list O O
-of O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
 what O O
 movies O O
@@ -3149,13 +2326,6 @@ are O O
 rated O O
 r B-rating.name B-rating.name
 
-i O O
-want O O
-to O O
-watch O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
 can O O
 i O O
@@ -3167,19 +2337,7 @@ spanish B-movie.language B-movie.language
 speaking O I-movie.language
 movies O O
 
-show O O
-me O O
-movies O O
-made O O
-in O O
-GPE B-country.name B-country.name
 
-show O O
-me O O
-the O O
-movie O O
-with B-movie.name O
-zombies I-movie.name B-movie.subject
 
 what O O
 movies O O
@@ -3200,33 +2358,9 @@ movies O O
 about O O
 zombies B-movie.subject B-movie.subject
 
-show O O
-me O O
-movies O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-show O O
-me B-director.name O
-PERSON I-director.name B-person.name
-'s O O
-filmography O O
 
-find O O
-french B-director.name B-movie.language
-language I-director.name I-movie.language
-movies O O
 
-can O O
-you O O
-show O O
-me O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
 list O O
 german B-movie.language B-movie.language
@@ -3248,18 +2382,7 @@ list O O
 dredd B-movie.name B-movie.name
 movie O O
 
-show O O
-me O O
-g B-director.name B-rating.name
-rated I-director.name O
-movies O O
 
-find O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
 produced O O
 by O O
@@ -3304,13 +2427,6 @@ by O O
 morgan B-producer.name B-producer.name
 freeman I-producer.name I-producer.name
 
-what O O
-movies O O
-has O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-starred O O
-in O O
 
 show O O
 me O O
@@ -3382,16 +2498,6 @@ star B-movie.name B-movie.name
 wars I-movie.name I-movie.name
 four I-movie.name I-movie.name
 
-find O O
-me O O
-names O O
-of O O
-info O O
-related O O
-to O O
-star B-movie.name B-movie.name
-wars I-movie.name I-movie.name
-four I-movie.name I-movie.name
 
 get O O
 details O O
@@ -3457,26 +2563,8 @@ julia B-actor.name B-person.name
 roberts I-actor.name I-person.name
 films O O
 
-list O O
-the O O
-movies O O
-that O O
-have O O
-the O O
-actress O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-movies O O
 
-what O O
-movies O O
-did O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-direct O O
 
 i O O
 would O O
@@ -3495,11 +2583,6 @@ movies O O
 about O O
 horses B-movie.subject B-movie.subject
 
-find O O
-all O O
-rated B-actor.name O
-r I-actor.name B-rating.name
-movies O O
 
 search O O
 by O O
@@ -3527,12 +2610,6 @@ skating I-movie.subject I-movie.subject
 in O O
 it O O
 
-find O O
-movies O O
-released O O
-comedies B-movie.genre B-movie.genre
-from O O
-GPE B-country.name B-country.name
 
 i O O
 need O O
@@ -3620,40 +2697,10 @@ movie O O
 in O O
 chinese B-movie.language B-movie.language
 
-find O O
-movies O O
-produced O O
-and O O
-directed O O
-by O O
-PERSON B-producer.name B-director.name
-PERSON I-producer.name I-director.name
 
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-movies O O
-please O O
 
-i O O
-want O O
-tom B-actor.name B-actor.name
-hanks I-actor.name I-actor.name
-movies O O
-please O O
 
-which O O
-movies O O
-PERSON O B-director.name
-PERSON B-actor.name I-director.name
-PERSON I-actor.name I-director.name
 
-which O O
-movies O O
-do O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-play O O
-in O O
 
 find O O
 end B-movie.name B-movie.name
@@ -3664,12 +2711,6 @@ search O O
 by O O
 genre O O
 
-looking O O
-for O O
-movies O O
-of O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
 find O O
 me O O
@@ -3717,13 +2758,6 @@ pg B-rating.name B-rating.name
 rated O O
 movies O O
 
-find O O
-a O O
-list O O
-of O O
-pg B-rating.name B-rating.name
-movies O O
-please O O
 
 give O O
 me O O
@@ -3779,9 +2813,6 @@ PERSON B-director.name B-director.name
 PERSON I-director.name I-director.name
 make O O
 
-watch O O
-pg B-director.name B-rating.name
-movies O O
 
 i O O
 want O O
@@ -3846,14 +2877,6 @@ are O O
 polish B-movie.language B-movie.language
 speaking O I-movie.language
 
-what O O
-movies O O
-has O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-been O O
-in O O
-recently O O
 
 search O O
 for O O
@@ -3890,21 +2913,7 @@ is O O
 ray B-person.name B-director.name
 stark I-person.name I-director.name
 
-find O O
-information O O
-on O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
-i O O
-want O O
-to O O
-look O O
-up O O
-information O O
-about O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
 can O O
 you O O
@@ -3953,13 +2962,6 @@ on O O
 kristen B-person.name B-person.name
 stewart I-person.name I-person.name
 
-does O O
-PERSON B-person.name B-producer.name
-PERSON I-person.name I-producer.name
-have O O
-a O O
-movie O O
-page O O
 
 where O O
 can O O
@@ -3970,9 +2972,6 @@ about O O
 kristen B-person.name B-person.name
 stewart I-person.name I-person.name
 
-show B-person.name O
-me I-person.name O
-bio O O
 
 i O O
 want O O
@@ -3983,41 +2982,15 @@ PERSON B-person.name B-person.name
 main O O
 page O O
 
-show B-person.name O
-spielberg I-person.name B-person.name
-summary O O
 
-about O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
-find O O
-me O O
-bio O O
-details O O
-for O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
-bio O O
-for O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
 show O O
 me O O
 alfred B-person.name B-director.name
 hitchcock I-person.name I-director.name
 
-i O O
-want O O
-more O O
-information O O
-about O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
-'s O O
-biography O O
 
 all O O
 info O O
@@ -4169,11 +3142,6 @@ was O O
 produced O O
 by O O
 
-who O O
-produced O O
-the O O
-movie O O
-avatar B-movie.name B-movie.name
 
 who O O
 produced O O
@@ -4201,12 +3169,6 @@ the O O
 movie O O
 inception B-movie.name B-movie.name
 
-what O O
-company O O
-produced O O
-the O O
-movie O O
-inception B-movie.name B-movie.name
 
 find O O
 producer O O
@@ -4239,19 +3201,7 @@ that O O
 produced O O
 sparkle B-movie.name B-movie.name
 
-find O O
-the O O
-producer O O
-of O O
-look B-movie.name O
-who I-movie.name O
-'s I-movie.name O
-budget I-movie.name O
 
-who O O
-produced O O
-the B-movie.name B-movie.name
-godfather I-movie.name I-movie.name
 
 find O O
 the O O
@@ -4340,17 +3290,7 @@ generate O O
 in O O
 revenues O O
 
-find O O
-revenue O O
-generated O O
-for O O
-jurassic B-movie.name B-movie.name
-park I-movie.name I-movie.name
 
-revenue O O
-for O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
 
 what O O
 is O O
@@ -4371,13 +3311,6 @@ in O O
 finding B-movie.name B-movie.name
 nemo I-movie.name I-movie.name
 
-who O O
-played O O
-richie B-character.name B-character.name
-mother I-character.name I-character.name
-in O O
-happy B-movie.name B-movie.name
-days I-movie.name I-movie.name
 
 who O O
 stars O O
@@ -4416,41 +3349,9 @@ of I-movie.name I-movie.name
 the I-movie.name I-movie.name
 street I-movie.name I-movie.name
 
-ethel B-character.name B-character.name
-actress O O
-from O O
-i B-movie.name O
-love I-movie.name O
-PERSON I-movie.name B-person.name
 
-actress O O
-who O O
-played O O
-ethel B-character.name B-character.name
-on O O
-i B-movie.name B-movie.name
-love I-movie.name I-movie.name
-PERSON I-movie.name I-movie.name
 
-who O O
-are O O
-the O O
-cast O O
-members O O
-in O O
-lord B-movie.name B-movie.name
-of I-movie.name I-movie.name
-the I-movie.name I-movie.name
-rings I-movie.name I-movie.name
-the I-movie.name I-movie.name
-two I-movie.name O
-mill I-movie.name O
 
-who O O
-played O O
-esme B-character.name B-character.name
-in O O
-twilight B-movie.name B-movie.name
 
 who O O
 played O O
@@ -4460,61 +3361,10 @@ tarkovsky B-director.name B-director.name
 's O O
 mirror B-movie.name B-movie.name
 
-show O O
-me O O
-the O O
-actor O O
-of O O
-the O O
-movie O O
-apollo B-movie.name B-movie.name
-thirteen I-movie.name I-movie.name
 
-who O O
-are O O
-the O O
-actors B-character.name O
-in O O
-star B-movie.name B-movie.name
-wars I-movie.name I-movie.name
-episode I-movie.name I-movie.name
-four I-movie.name I-movie.name
 
-who O O
-was O O
-that O O
-guy O O
-in O O
-who O O
-was O O
-in O O
-the B-movie.name B-movie.name
-avengers I-movie.name I-movie.name
 
-which O O
-actor O O
-played O O
-mother B-character.name B-character.name
-in O O
-lord B-movie.name B-movie.name
-of I-movie.name I-movie.name
-the I-movie.name I-movie.name
-rings I-movie.name I-movie.name
 
-find O O
-the O O
-name O O
-of O O
-the O O
-actress O O
-who O O
-played O O
-mother B-character.name B-character.name
-in O O
-GPE B-movie.name B-movie.name
-by O O
-by B-director.name O
-tarkovsky I-director.name B-director.name
 
 what O O
 is O O
@@ -4561,15 +3411,6 @@ actress O O
 in O O
 platoon B-movie.name B-movie.name
 
-what O O
-'s O O
-the O O
-name O O
-of O O
-the O B-character.name
-mom B-character.name I-character.name
-on O O
-GPE B-movie.name B-movie.name
 
 name O O
 the O O
@@ -4579,42 +3420,7 @@ shoot B-movie.name B-movie.name
 to I-movie.name I-movie.name
 kill I-movie.name I-movie.name
 
-what O O
-is O O
-the O O
-name O O
-of O O
-the O O
-actor O O
-who O O
-played O O
-the B-character.name B-character.name
-dad I-character.name I-character.name
-in O O
-to B-movie.name B-movie.name
-kill I-movie.name I-movie.name
-a I-movie.name I-movie.name
-mockingbird I-movie.name I-movie.name
 
-show O O
-me O O
-the O O
-name O O
-of O O
-the O O
-guy O O
-who O O
-was O O
-the O O
-father B-character.name B-movie.name
-and I-character.name I-movie.name
-a I-character.name O
-movie I-character.name O
-in O B-movie.name
-to B-movie.name I-movie.name
-kill I-movie.name I-movie.name
-a I-movie.name I-movie.name
-mockingbird I-movie.name I-movie.name
 
 please O O
 provide O O
@@ -4640,43 +3446,9 @@ the O O
 movie O O
 epic B-movie.name B-movie.name
 
-what O O
-was O O
-the O O
-budget O O
-for O O
-the B-movie.name B-movie.name
-avengers I-movie.name I-movie.name
 
-what O O
-was O O
-the O O
-budget O O
-for O O
-the B-movie.name B-movie.name
-avengers I-movie.name I-movie.name
 
-what O O
-was O O
-the O O
-budget O O
-for O O
-1st O O
-harry B-movie.name I-movie.name
-this I-movie.name O
-movie O O
 
-how O O
-much O O
-was O O
-spent O O
-on O O
-batman O B-movie.name
-the O O
-last O O
-PERSON B-movie.name B-director.name
-PERSON I-movie.name I-director.name
-PERSON O O
 
 how O O
 much O O
@@ -4739,16 +3511,6 @@ star B-movie.name B-movie.name
 wars I-movie.name I-movie.name
 2 I-movie.name I-movie.name
 
-how O O
-much O O
-did O O
-it O O
-cost O O
-to O O
-produce O O
-the B-movie.name B-movie.name
-deer I-movie.name I-movie.name
-hunter I-movie.name I-movie.name
 
 show O O
 me O O
@@ -4770,16 +3532,7 @@ in O I-movie.name
 
 liongate B-producer.name B-producer.name
 
-which O O
-country O O
-made O O
-PERSON B-movie.name B-movie.name
 
-what O O
-country O O
-does O O
-les B-movie.name B-movie.name
-mes I-movie.name I-movie.name
 
 what O O
 country O O
@@ -4788,19 +3541,7 @@ les B-movie.name B-movie.name
 mes I-movie.name I-movie.name
 from O O
 
-where O O
-was O O
-the O O
-rating B-movie.name O
-of I-movie.name O
-movie I-movie.name O
-made O O
 
-what O O
-country O O
-is O O
-PERSON B-movie.name B-person.name
-PERSON I-movie.name I-person.name
 
 what O O
 country O O
@@ -4814,14 +3555,6 @@ magic I-movie.name I-movie.name
 comes O O
 from O O
 
-tell O O
-me O O
-where O O
-the O B-movie.name
-white B-movie.name O
-actors I-movie.name O
-came O O
-from O O
 
 when O O
 was O O
@@ -4841,14 +3574,6 @@ movie O O
 barfi B-movie.name B-movie.name
 ! I-movie.name I-movie.name
 
-release O O
-date O O
-of O O
-the O O
-new O O
-hope B-movie.name O
-this I-movie.name O
-film O O
 
 what O O
 is O O
@@ -4912,23 +3637,8 @@ rings I-movie.name I-movie.name
 movie O O
 released O O
 
-whats O O
-paranormal B-movie.name B-movie.name
-activity I-movie.name I-movie.name
-release O O
-date O O
 
-when O O
-will O O
-barfi B-movie.name B-movie.name
-come O O
-out O O
 
-when O O
-was O O
-paranorman B-movie.name B-movie.name
-be O O
-released O O
 
 when O O
 was O O
@@ -4948,9 +3658,6 @@ part I-movie.name O
 be O O
 released O O
 
-who O O
-directed O O
-avatar B-movie.name B-movie.name
 
 find O O
 the O O
@@ -4998,13 +3705,6 @@ amelie B-movie.name B-movie.name
 filmed O O
 in O O
 
-what O O
-language O O
-is O O
-the O O
-full B-movie.name O
-starred I-movie.name O
-in O O
 
 what O O
 is O O
@@ -5058,15 +3758,8 @@ produced O O
 in O O
 2010 B-movie.release_date B-movie.release_date
 
-find O O
-some O O
-movies B-movie.genre O
 
-search O O
-romantic B-movie.genre B-movie.genre
-movies I-movie.genre O
 
-movies B-movie.genre O
 
 show O O
 me O O
@@ -5076,94 +3769,20 @@ show O O
 car B-movie.subject B-movie.subject
 documentaries B-movie.genre B-movie.genre
 
-show O O
-me O O
-a O O
-list B-actor.name O
-of I-actor.name O
-movies B-movie.type O
 
-i O O
-want O O
-to O O
-see O O
-videos B-movie.type O
-of O O
-PERSON B-director.name B-actor.name
-PERSON I-director.name I-actor.name
 
-videos B-movie.type O
-related O O
-to O O
-PERSON B-director.name B-person.name
-PERSON I-director.name I-person.name
 
 new O O
 released O O
 videos B-movie.type O
 
-i O O
-want O O
-to O O
-see O O
-zombie B-country.name B-movie.subject
-movies O O
 
-show O O
-all O O
-r B-country.name B-rating.name
-movies O O
-for O O
-nineteen B-movie.release_date B-movie.release_date
-eighty I-movie.release_date I-movie.release_date
 
-what O O
-movies O O
-were O O
-made O O
-in O O
-second B-country.name O
-this B-movie.release_date B-movie.release_date
-year I-movie.release_date I-movie.release_date
 
-find O O
-me B-country.name O
-movies O O
-in O O
-english B-movie.language B-movie.language
 
-show O O
-me O O
-the O O
-highest-grossing O O
-movies O O
-from O O
-GPE B-country.name B-country.name
 
-find O O
-movies O O
-in O O
-GPE B-country.name B-movie.location
-about O O
-movie B-movie.subject O
 
-i O O
-'d O O
-love O O
-to O O
-watch O O
-an O O
-r B-director.name B-rating.name
-rated I-director.name O
-movie O O
 
-what O O
-other O O
-films O O
-has O O
-PERSON B-director.name B-actor.name
-PERSON I-director.name I-actor.name
-done O O
 
 bring O O
 up O O
@@ -5180,90 +3799,22 @@ brad B-director.name B-director.name
 pitt I-director.name I-director.name
 directed O O
 
-movies O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-did O O
-you B-director.name O
-hunter I-director.name I-movie.name
-direct O O
-any O O
-movies O O
 
-what O O
-movies O O
-did O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-do O O
 
-movies O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-as O O
-a O O
-director O O
 
-show O O
-me O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-has O O
-directed O O
-what O O
-movies O O
 
-please O O
-list O O
-all O O
-movies O O
-directed O O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
 
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-directed O O
-what O O
-movie O O
 
-find O O
-action B-movie.genre B-movie.genre
-movies O O
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
-show O O
-all O O
-russian B-movie.genre B-country.name
-films O O
-for O O
-twenty B-movie.release_date B-movie.release_date
-twelve I-movie.release_date I-movie.release_date
 
 animated B-movie.genre B-movie.genre
 pg B-rating.name B-rating.name
 thirteen I-rating.name I-rating.name
 movies O O
 
-what B-movie.genre O
-movies O O
 
-i O O
-like O O
-japanese B-movie.genre B-country.name
-movies O O
 
 show O O
 me O O
@@ -5325,10 +3876,6 @@ shown O O
 in O O
 english B-movie.language B-movie.language
 
-find O O
-movies O O
-in O O
-spanish B-movie.language B-movie.language
 
 send O O
 me O O
@@ -5357,15 +3904,6 @@ movies O O
 in O O
 french B-movie.language B-movie.language
 
-i O O
-want O O
-to O O
-find O O
-movies O O
-starring O O
-the O O
-french B-movie.language B-movie.language
-movies O O
 
 i O O
 want O O
@@ -5431,45 +3969,10 @@ movies O O
 in O O
 spanish B-movie.language B-movie.language
 
-find O O
-movies O O
-in O O
-spanish B-movie.language B-movie.language
 
-show O O
-me O O
-a O O
-list O O
-of O O
-all O O
-movies O O
-produced O O
-by O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
 
-what O O
-other O O
-movies O O
-did B-producer.name O
-PERSON I-producer.name B-actor.name
-PERSON O I-actor.name
 
-has O O
-PERSON B-producer.name B-producer.name
-PERSON I-producer.name I-producer.name
-produced O O
-movies O O
 
-show O O
-me O O
-the O O
-movies O O
-produced O O
-by O O
-what B-producer.name O
-s I-producer.name O
-the I-producer.name O
 
 list O O
 the O O
@@ -5479,28 +3982,6 @@ by O O
 7 B-producer.name O
 arts I-producer.name I-producer.name
 
-lionsgate B-producer.name B-producer.name
-can O O
-i O O
-would O O
-like O O
-to O O
-get O O
-a O O
-list O O
-of O O
-your O O
-movies O O
-from O O
-two B-movie.release_date B-movie.release_date
-thousand I-movie.release_date I-movie.release_date
-and I-movie.release_date I-movie.release_date
-nine I-movie.release_date I-movie.release_date
-to I-movie.release_date O
-two I-movie.release_date B-movie.release_date
-thousand I-movie.release_date I-movie.release_date
-and I-movie.release_date I-movie.release_date
-twelve I-movie.release_date I-movie.release_date
 
 twentieth B-producer.name B-producer.name
 century I-producer.name I-producer.name
@@ -5508,13 +3989,6 @@ fox I-producer.name I-producer.name
 movies O O
 2012 B-movie.release_date B-movie.release_date
 
-show O O
-me O O
-nc B-rating.name B-rating.name
-nc I-rating.name B-rating.name
-seventeen I-rating.name I-rating.name
-rated O O
-movies O O
 
 show O O
 me O O
@@ -5551,23 +4025,6 @@ pg B-rating.name B-rating.name
 thirteen I-rating.name I-rating.name
 movie O O
 
-show O O
-me O O
-a O O
-complete O O
-list O O
-of O O
-r B-rating.name B-rating.name
-rated O O
-movies O O
-that O O
-came O O
-out O O
-in O O
-the B-movie.release_date O
-last I-movie.release_date O
-five I-movie.release_date O
-days I-movie.release_date B-movie.name
 
 show O O
 me O O
@@ -5578,38 +4035,9 @@ movies O O
 by O O
 paramount B-producer.name B-producer.name
 
-show O O
-me O O
-movies O O
-that O O
-are O O
-in B-rating.name O
 
-list O O
-movies O O
-from O O
-1995 B-movie.release_date I-movie.release_date
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
-i O O
-want O O
-to O O
-see O O
-movies O O
-with O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
-which O O
-movies O O
-has O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-starred O O
-this B-movie.release_date B-movie.release_date
-season I-movie.release_date I-movie.release_date
 
 what O O
 movie O O
@@ -5619,93 +4047,15 @@ a O O
 main B-character.name O
 actress I-character.name O
 
-look O O
-up O O
-movies O O
-starring O O
-the O O
-singer B-actor.type B-actor.type
-PERSON B-actor.name B-actor.name
 
-i O O
-want O O
-to O O
-find O O
-movies O O
-starring O O
-the O O
-singer B-actor.type B-actor.type
-PERSON B-actor.name B-actor.name
 
-look O O
-for O O
-movies O O
-with O O
-a B-actor.name O
-pg I-actor.name B-rating.name
-rating I-actor.name O
 
-show O O
-me O O
-movies O O
-that O O
-have O O
-PERSON B-actor.name B-actor.name
-swayze I-actor.name I-actor.name
-and O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-in O O
-them O O
 
-show O O
-me O O
-movies O O
-that O O
-star O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-starred O O
-in O O
-from O O
-nineteen B-movie.release_date B-movie.release_date
-eighty I-movie.release_date I-movie.release_date
-seven I-movie.release_date I-movie.release_date
 
-what O O
-is O O
-that O B-movie.name
-dancing B-movie.subject I-movie.name
-movie O O
-with O O
-PERSON B-actor.name B-actor.name
-swayze I-actor.name I-actor.name
 
-movies O O
-of O O
-PERSON B-actor.name B-director.name
-PERSON I-actor.name I-director.name
 
-movie O O
-that O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
-and O O
-the B-actor.name B-movie.name
-huntsman I-actor.name I-movie.name
-played O O
-in O O
-together O O
 
-movies O O
-about O O
-zombies B-movie.subject B-movie.subject
 
-show O O
-me O O
-movies O O
-about O O
-zombies B-movie.subject B-movie.subject
 
 chess B-movie.subject B-movie.subject
 movies O O
@@ -5716,20 +4066,7 @@ movies O O
 on O O
 chess B-movie.subject B-movie.subject
 
-what O O
-are O O
-some O O
-movies O O
-about O O
-gardening B-movie.subject B-movie.subject
 
-what O O
-movies O O
-can O B-rating.name
-young O I-rating.name
-tips O B-movie.subject
-on O I-movie.subject
-gardening B-movie.subject I-movie.subject
 
 i O O
 want O O
@@ -5745,11 +4082,6 @@ movies O O
 about O O
 libraries B-movie.subject B-movie.subject
 
-find O O
-some O O
-movies O O
-about O O
-gardening B-movie.subject B-movie.subject
 
 can O O
 you O O
@@ -5766,15 +4098,6 @@ about O O
 preschool B-movie.subject B-movie.subject
 boys I-movie.subject I-movie.subject
 
-what O O
-films O O
-has O O
-PERSON O B-actor.name
-PERSON B-movie.subject I-actor.name
-and I-movie.subject O
-PERSON I-movie.subject B-actor.name
-'s I-movie.subject O
-movies I-movie.subject O
 
 i O O
 would O O
@@ -5806,14 +4129,6 @@ movies O O
 about O O
 school B-movie.subject O
 
-tell O O
-me O O
-the O O
-names O O
-of O O
-some O O
-indian B-movie.subject B-movie.language
-movies O O
 
 what O O
 are O O
@@ -5832,28 +4147,8 @@ involving O O
 time B-movie.subject B-movie.subject
 travel I-movie.subject I-movie.subject
 
-what B-movie.subject O
-movies O O
-please O O
 
-list O O
-movies O O
-with O O
-a O O
-rating O O
-of O O
-war B-movie.subject B-movie.subject
-in O O
-them O O
 
-show O O
-all O O
-movies O O
-with O O
-the O O
-flowers O O
-of O O
-war B-movie.subject B-movie.subject
 
 can O O
 you O O
@@ -5886,23 +4181,12 @@ world B-movie.subject B-movie.subject
 war I-movie.subject I-movie.subject
 two I-movie.subject O
 
-what O O
-are O O
-some O O
-PERSON B-movie.subject B-producer.name
-PERSON I-movie.subject I-producer.name
-movies O O
 
 search O O
 for O O
 zombie B-movie.subject B-movie.subject
 movies O O
 
-show O O
-me O O
-movies B-movie.name O
-in O O
-spanish B-movie.language B-movie.language
 
 is O O
 dredd B-movie.name B-movie.name
@@ -5930,12 +4214,6 @@ furious I-movie.name I-movie.name
 in O O
 japanese B-movie.language B-movie.language
 
-hard B-movie.name B-movie.name
-day I-movie.name I-movie.name
-'s I-movie.name I-movie.name
-night I-movie.name I-movie.name
-a B-director.name O
-documentary I-director.name B-movie.genre
 
 information O O
 about O O
@@ -6008,20 +4286,7 @@ life B-movie.name B-movie.name
 is I-movie.name I-movie.name
 beautiful I-movie.name I-movie.name
 
-is O O
-nine B-movie.release_date B-movie.release_date
-fourteen I-movie.release_date I-movie.release_date
-the O O
-release O O
-date O O
-for O O
-resident B-movie.name B-movie.name
-evil I-movie.name I-movie.name
 
-select O O
-movies B-movie.name O
-in O O
-chinese B-movie.language B-movie.language
 
 find O O
 me O O
@@ -6055,16 +4320,6 @@ produce O O
 steel B-movie.name B-movie.name
 magnolias I-movie.name I-movie.name
 
-is O O
-the O O
-movie O O
-toy B-movie.name B-movie.name
-story I-movie.name I-movie.name
-4 I-movie.name O
-r O O
-released O O
-next B-movie.release_date O
-amazing I-movie.release_date B-movie.name
 
 i O O
 want O O
@@ -6076,11 +4331,6 @@ about O O
 american B-country.name B-country.name
 movies O O
 
-chinese B-movie.language B-movie.language
-foreign O I-movie.language
-film O O
-with O O
-zombies B-movie.subject B-movie.subject
 
 french B-movie.language B-country.name
 movies O O
@@ -6117,21 +4367,7 @@ producer O O
 PERSON B-person.name B-person.name
 PERSON I-person.name I-person.name
 
-show O O
-me O O
-details O O
-for O O
-the O O
-director O O
-PERSON B-director.name B-person.name
-PERSON I-director.name I-person.name
 
-show O O
-me O O
-that O O
-actor O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
 i O O
 would O O
@@ -6150,11 +4386,6 @@ movie O O
 great B-movie.name B-movie.name
 debaters I-movie.name I-movie.name
 
-king B-movie.name I-movie.name
-'s I-movie.name O
-the I-movie.name O
-production O O
-company O O
 
 i O O
 wonder O O
@@ -6202,19 +4433,6 @@ for O O
 hotel B-movie.name B-movie.name
 transylvania I-movie.name I-movie.name
 
-what O O
-did O O
-the O O
-movie O O
-the O O
-house B-movie.name B-movie.name
-at I-movie.name I-movie.name
-the I-movie.name I-movie.name
-end I-movie.name I-movie.name
-of I-movie.name I-movie.name
-the I-movie.name I-movie.name
-street I-movie.name I-movie.name
-gross O O
 
 revenue O O
 for O O
@@ -6240,15 +4458,7 @@ of O O
 iron B-movie.name B-movie.name
 man I-movie.name I-movie.name
 
-what B-movie.name O
-'s O O
-revenue O O
 
-get O O
-the O O
-revenue O O
-of O O
-mirror B-movie.name B-movie.name
 
 revenue O O
 looper B-movie.name B-movie.name
@@ -6267,56 +4477,10 @@ did O O
 looper B-movie.name B-movie.name
 gross O O
 
-how O O
-much O O
-did O O
-looper B-movie.name B-movie.name
-make O O
 
-how O O
-much O O
-money O O
-did O O
-they B-movie.name O
-and I-movie.name O
-will I-movie.name B-actor.name
-smith I-movie.name I-actor.name
-make O O
 
-how O O
-much O O
-money O O
-did O O
-the O O
-movie O O
-secrets B-movie.name B-movie.name
-and I-movie.name I-movie.name
-will I-movie.name B-actor.name
-smith I-movie.name I-actor.name
-make O O
 
-in O O
-the O O
-movie O O
-secrets B-movie.name B-movie.name
-and I-movie.name I-movie.name
-will I-movie.name B-actor.name
-smith I-movie.name I-actor.name
-how O O
-much O O
-money O O
-did O O
-the O O
-box O O
-office O O
-gross O O
 
-how O O
-much O O
-money O O
-did O O
-bananas B-movie.name B-movie.name
-make O O
 
 i O O
 want O O
@@ -6336,19 +4500,6 @@ made O O
 from O O
 platoon B-movie.name B-movie.name
 
-what O O
-was O O
-the O O
-gross O O
-revenue O O
-generated O O
-by O O
-star B-movie.name B-movie.name
-wars I-movie.name I-movie.name
-in O O
-the O O
-original O O
-release O O
 
 what O O
 was O O
@@ -6375,14 +4526,6 @@ for O O
 hunger B-movie.name B-movie.name
 games I-movie.name I-movie.name
 
-tell O O
-me O O
-how O O
-much O O
-money O O
-did B-movie.name O
-boy I-movie.name I-character.name
-made O O
 
 how O O
 much O O
@@ -6392,13 +4535,6 @@ top B-movie.name B-movie.name
 gun I-movie.name I-movie.name
 make O O
 
-tell O O
-me O O
-the O O
-revenue O O
-of O O
-PERSON B-movie.name B-person.name
-PERSON I-movie.name I-person.name
 
 what O O
 is O O
@@ -6442,25 +4578,7 @@ me O O
 love O O
 you O O
 
-what O O
-is O O
-PERSON B-person.name B-movie.name
-PERSON I-person.name I-movie.name
-up O I-movie.name
-to O I-movie.name
 
-what B-country.name O
-are O O
-all O O
-your O O
-movies O O
-in O O
-your O O
-favorite O O
-language O O
-or O O
-in O O
-english B-movie.language B-movie.language
 
 what O O
 's O O
@@ -6474,17 +4592,6 @@ buy O O
 this O O
 movie O O
 
-i O O
-would O O
-like O O
-to O O
-know O O
-if O O
-this O O
-is O O
-a O O
-movie O O
-scary B-movie.genre B-movie.genre
 
 how O O
 to O O
@@ -6520,9 +4627,6 @@ evil I-movie.name I-movie.name
 in O O
 september O B-movie.release_date
 
-about O O
-finding B-movie.name B-movie.name
-nemo I-movie.name I-movie.name
 
 find O O
 movie O O
@@ -6533,26 +4637,6 @@ find O O
 a O O
 movie O O
 
-can O O
-you O O
-tell O O
-me O O
-which O O
-movie O O
-made O O
-the O O
-most O O
-at O O
-the O O
-box O O
-office O O
-in O O
-the O O
-weekend O O
-of O O
-september O B-movie.release_date
-twenty O I-movie.release_date
-twelve O I-movie.release_date
 
 find O O
 movies O O
@@ -6608,74 +4692,12 @@ i O O
 see O O
 movie O O
 
-what O O
-is O O
-the O O
-age O O
-group O O
-for O O
-the O O
-pg B-rating.name B-rating.name
-rating O O
-for O O
-the O O
-movie O O
-hotel B-movie.name B-movie.name
-transylvania B-movie.name I-movie.name
 
-what O O
-does O O
-the O O
-rating O O
-r B-rating.name B-rating.name
-mean O O
-for O O
-the O O
-movie O O
-ants O B-movie.name
 
-show O O
-me O O
-the O O
-movie O O
-or O O
-similar O O
-to O O
-this O O
-movie O O
 
-how O O
-long O O
-did O O
-it O O
-take O O
-it B-producer.name O
-cost I-producer.name O
-to O O
-produce O O
-avatar B-movie.name B-movie.name
 
-is O O
-this O O
-film O O
-movies O O
-in O O
-english B-movie.language B-movie.language
 
-apollo B-movie.name B-movie.name
-thirteen I-movie.name I-movie.name
-cast O O
-was O O
-canceled O O
-how O O
 
-what O O
-other O O
-movies O O
-is O O
-finding B-movie.name B-movie.name
-nemo I-movie.name I-movie.name
-in O O
 
 in O O
 how O O
@@ -6713,31 +4735,8 @@ movie O O
 in B-movie.name B-movie.name
 GPE I-movie.name I-movie.name
 
-how O O
-long O O
-do O O
-you O O
-have O O
-that O O
-wb B-producer.name B-producer.name
-will O O
-be O O
-to O O
-watch O O
-in O O
-today O O
-'s O O
-budget O O
 
-the O B-movie.name
-campaign O I-movie.name
 
-who O O
-are O O
-the O O
-ratings O O
-on O O
-movies O O
 
 house B-movie.name B-movie.name
 at I-movie.name I-movie.name
@@ -6758,29 +4757,8 @@ dirty B-movie.name B-movie.name
 dancing I-movie.name I-movie.name
 news O O
 
-who O O
-else O O
-could O O
-have O O
-descrbe O O
-your O O
-job O O
 
-twenty B-movie.gross_revenue O
-one I-movie.gross_revenue O
-point I-movie.gross_revenue O
-two I-movie.gross_revenue O
-was O O
-come O O
-out O O
 
-find O O
-some O O
-info O O
-on O O
-parental O O
-guidance O O
-please O O
 
 who O O
 came O O
@@ -6812,9 +4790,6 @@ reviews O O
 in O O
 GPE O B-country.name
 
-show O O
-me O O
-movies O O
 
 how O O
 old O O
@@ -6829,16 +4804,6 @@ an O O
 r-rated B-rating.name B-rating.name
 movie O O
 
-does O O
-lionsgate B-country.name B-producer.name
-have O O
-an O O
-r O B-rating.name
-to O I-rating.name
-th O I-producer.name
-century B-country.name I-producer.name
-oscar B-award.ceremony B-award.ceremony
-awards O I-award.ceremony
 
 click O O
 on O O
@@ -6849,9 +4814,6 @@ movie O O
 in O O
 GPE O B-country.name
 
-show B-movie.location O
-movie O O
-ratings O O
 
 what O O
 is O O
@@ -6897,25 +4859,7 @@ send O O
 dredd B-movie.name B-movie.name
 movie O O
 
-PERSON B-person.name B-actor.name
-PERSON I-person.name I-actor.name
-PERSON O O
 
-did O O
-PERSON B-person.name B-director.name
-PERSON I-person.name I-director.name
-have O O
-an O O
-r O B-rating.name
-with O O
-the O O
-director O O
-of O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
-and I-movie.name I-movie.name
-the I-movie.name I-movie.name
-huntsman I-movie.name I-movie.name
 
 show O O
 me O O
@@ -6961,12 +4905,6 @@ first O O
 week O O
 gross O O
 
-r B-rating.name B-rating.name
-rating O O
-what O O
-does O O
-that O O
-made O O
 
 in B-movie.name B-movie.name
 julie I-movie.name I-movie.name
@@ -6983,10 +4921,6 @@ a O O
 movie O O
 producer O O
 
-show O O
-me O O
-spanish O B-movie.language
-movies O O
 
 how O O
 does O O
@@ -7005,13 +4939,6 @@ on O O
 the O O
 set O O
 
-what O O
-are O O
-the O O
-rating O O
-levels O O
-for O O
-movies O O
 
 sb O O
 news O O
@@ -7025,30 +4952,7 @@ thirteen O I-rating.name
 year O O
 old O O
 
-end B-movie.name B-movie.name
-of I-movie.name I-movie.name
-watch I-movie.name I-movie.name
-make O O
-of O O
-made O O
-by O O
-money O O
 
-when O O
-the O O
-movie O O
-comes O O
-out O O
-do O O
-you O O
-think O O
-it O O
-will O O
-make O O
-in O O
-the O O
-box O O
-office O O
 
 show O O
 me O O
@@ -7058,14 +4962,6 @@ list O O
 in O O
 GPE O B-country.name
 
-show O O
-me O O
-the O O
-story O O
-of O O
-the O O
-movie B-person.name O
-avatar I-person.name B-movie.name
 
 classic O B-movie.subject
 cars O I-movie.subject
@@ -7082,7 +4978,6 @@ camping O B-movie.name
 
 happy O B-movie.name
 
-movies O O
 
 sort O O
 by O O
@@ -7100,47 +4995,17 @@ PERSON I-person.name I-person.name
 middle O O
 name O O
 
-movies O O
 
 forty O I-movie.gross_revenue
 three O B-movie.gross_revenue
 million O I-movie.gross_revenue
 what O O
 
-twenty O O
-one O O
-point O O
-two O O
-million O I-movie.gross_revenue
-dollars O I-movie.gross_revenue
-was O O
-difference O O
-between O O
-who O O
 
-do O O
-movie O O
-flags O O
-of O O
-foreign O O
-countries O O
 
 on O B-movie.name
 lies O I-movie.name
 
-the O O
-movie O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
-is O O
-from O O
-the B-country.name O
-country O O
-where O O
-is O O
-the O O
-country O O
-in B-country.name O
 
 how O O
 fun O O
@@ -7151,14 +5016,6 @@ produce O O
 a O O
 movie O O
 
-did O O
-you O O
-like O O
-movies O O
-with O O
-who O O
-you O O
-did O O
 
 can O O
 i O O
@@ -7168,29 +5025,9 @@ map O O
 of O O
 GPE B-country.name B-country.name
 
-was O O
-your O O
-favorite O O
-set O O
-it O O
 
-see O O
-american O I-actor.nationality
-country O O
-flags O O
 
-need O O
-more O O
-info O O
-that O I-character.name
-had O I-character.name
-to O I-character.name
-kill B-country.name I-character.name
 
-flags O O
-of O O
-the O O
-world O O
 
 best O O
 writers O I-movie.name
@@ -7198,13 +5035,6 @@ in O O
 the O O
 field O B-movie.name
 
-find O O
-the O O
-male O O
-actor O O
-from O O
-dirty B-movie.name B-movie.name
-dancing I-movie.name I-movie.name
 
 who O O
 played O O
@@ -7214,13 +5044,6 @@ lead O O
 in O O
 hitch B-movie.name B-movie.name
 
-find O O
-the O O
-female O O
-actress O O
-from O O
-the B-movie.name B-country.name
-GPE I-movie.name I-country.name
 
 who O O
 is O O
@@ -7234,11 +5057,6 @@ the O O
 lead O O
 actors O O
 
-how O O
-old O O
-is O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
 when O O
 was O O
@@ -7252,12 +5070,6 @@ black B-movie.name B-movie.name
 swan I-movie.name I-movie.name
 directed O O
 
-where O O
-was O O
-PERSON B-movie.name B-movie.name
-'s I-movie.name I-movie.name
-wedding I-movie.name I-movie.name
-shot O O
 
 show O O
 release O O
@@ -7271,25 +5083,7 @@ movie O O
 little B-movie.name B-movie.name
 women I-movie.name I-movie.name
 
-show O O
-movie O O
-ratings O O
 
-i O O
-'d O O
-like O O
-to O O
-see O O
-popular O O
-film O O
-directors O O
-from O O
-the O O
-nineteen B-movie.release_date B-movie.release_date
-ninety I-movie.release_date I-movie.release_date
-'s I-movie.release_date O
-for I-movie.release_date O
-today I-movie.release_date O
 
 best O O
 director O O
@@ -7319,18 +5113,7 @@ most O O
 popular O O
 movies O O
 
-show O O
-me O O
-famous O O
-movie O O
-directors O O
 
-who O O
-produced O O
-hotel B-movie.name B-movie.name
-rwanda I-movie.name I-movie.name
-lost O I-movie.name
-art O I-movie.name
 
 who O O
 's O O
@@ -7375,15 +5158,6 @@ winning O O
 russian B-country.name B-country.name
 documentary B-movie.genre B-movie.genre
 
-what O O
-movie O O
-titles O O
-starring O O
-movies B-actor.name O
-directed I-actor.name O
-by O O
-PERSON B-award.ceremony B-director.name
-PERSON O I-director.name
 
 in O O
 search O O
@@ -7436,15 +5210,6 @@ most O O
 famous O O
 movie O O
 
-tell O O
-me O O
-some O O
-of O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-PERSON I-director.name O
-best O O
-movies O O
 
 looking O O
 for O O
@@ -7488,24 +5253,7 @@ seven I-movie.gross_revenue I-movie.gross_revenue
 million I-movie.gross_revenue I-movie.gross_revenue
 dollars I-movie.gross_revenue I-movie.gross_revenue
 
-show O O
-me O O
-movies O O
-that O O
-are O O
-'t O O
-gross O O
-much O O
 
-i O O
-want O O
-to O O
-see O O
-movies O O
-from O O
-point B-movie.release_date I-movie.gross_revenue
-two I-movie.release_date I-movie.gross_revenue
-million I-movie.release_date I-movie.gross_revenue
 
 show O O
 last B-movie.release_date B-movie.release_date
@@ -7574,76 +5322,12 @@ by O O
 warner B-producer.name B-producer.name
 brothers I-producer.name I-producer.name
 
-what O O
-movie O O
-rating O O
-did O O
-this B-actor.name O
-movie I-actor.name O
-win O O
-any O O
-best B-award.category O
-PERSON I-award.category B-actor.name
-PERSON B-award.ceremony I-actor.name
 
-have O O
-any O O
-movies B-country.name O
-released O O
-movies O O
-been O O
-filmed O O
-on O O
-make O O
-in O O
-the O O
-box B-movie.location O
-office I-movie.location O
 
-what O O
-date B-country.name O
-release O O
-movies O O
-have O O
-been O O
-filmed O O
-in O O
-the O O
-movie B-movie.location O
-hitch I-movie.location B-movie.name
 
-list O O
-movies O O
-set O O
-in O O
-GPE B-movie.location B-country.name
 
-show O O
-me O O
-the O O
-movies O O
-released O O
-in O O
-GPE B-movie.release_region B-movie.release_region
 
-what O O
-movies O O
-are O O
-coming O O
-out O O
-this B-movie.release_date O
-week I-movie.release_date O
-in O O
-great B-movie.release_region B-movie.name
-debaters I-movie.release_region I-movie.name
 
-show O O
-me O O
-the O O
-movies O O
-released O O
-in O O
-GPE B-movie.release_region B-movie.release_region
 
 what O O
 are O O
@@ -7681,15 +5365,6 @@ rated O O
 zombie B-movie.subject B-movie.subject
 movie O O
 
-what O O
-are O O
-all O O
-rated O O
-zombie B-movie.subject O
-movies O O
-i O O
-can O O
-watch O O
 
 look O O
 for O O
@@ -7736,12 +5411,6 @@ in O O
 the O O
 movie O O
 
-is O O
-this O O
-movie O O
-filmed O O
-in O O
-GPE B-movie.location B-movie.location
 
 show O O
 all O O
@@ -7751,12 +5420,6 @@ the I-movie.name I-movie.name
 dead I-movie.name I-movie.name
 movies O O
 
-all O O
-of O O
-kung B-movie.name B-movie.name
-fo I-movie.name I-movie.name
-panda I-movie.name I-movie.name
-movies O O
 
 list O O
 movies O O
@@ -7788,21 +5451,6 @@ about O O
 french B-movie.language B-country.name
 movies O O
 
-i O O
-need O O
-to O O
-know O O
-more O O
-about O O
-the O O
-life O O
-and O O
-movies O O
-of O O
-indian B-actor.nationality B-actor.nationality
-actor O O
-PERSON B-actor.name B-actor.name
-PERSON I-actor.name I-actor.name
 
 what O O
 does O O
@@ -7812,17 +5460,7 @@ logo O O
 look O O
 like O O
 
-show O O
-me O O
-pictures O O
-of O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
-photos O O
-of O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
 i O O
 want O O
@@ -7833,12 +5471,6 @@ of O O
 PERSON B-person.name B-person.name
 PERSON I-person.name I-person.name
 
-show O O
-me O O
-pictures O O
-of O O
-PERSON B-person.name B-person.name
-PERSON I-person.name I-person.name
 
 what O O
 are O O
@@ -7898,13 +5530,6 @@ movie O O
 grease B-movie.name B-movie.name
 is O I-movie.name
 
-what O O
-is O O
-kids B-movie.name O
-by O O
-PERSON B-director.name B-director.name
-PERSON I-director.name I-director.name
-rated O O
 
 what O O
 rating O O
@@ -7914,15 +5539,6 @@ and I-movie.name I-movie.name
 me I-movie.name I-movie.name
 receive O O
 
-what O O
-is O O
-the O O
-rating O O
-for O O
-marley B-movie.name B-movie.name
-and I-movie.name O
-will I-movie.name B-actor.name
-smith I-movie.name I-actor.name
 
 what O O
 rating O O
@@ -7931,13 +5547,6 @@ resident B-movie.name B-movie.name
 evil I-movie.name I-movie.name
 receive O O
 
-rating O O
-for O O
-PERSON B-movie.name B-movie.name
-PERSON I-movie.name I-movie.name
-and I-movie.name I-movie.name
-the I-movie.name I-movie.name
-huntsman I-movie.name I-movie.name
 
 what O O
 rating O O
@@ -8005,13 +5614,6 @@ for O O
 batman B-movie.name B-movie.name
 begins I-movie.name I-movie.name
 
-how O O
-much O O
-has O O
-black B-movie.name B-movie.name
-swan I-movie.name I-movie.name
-been O O
-in O O
 
 find O O
 the O O
@@ -8020,13 +5622,6 @@ for O O
 downton B-movie.name B-movie.name
 abbey I-movie.name I-movie.name
 
-find O O
-the O O
-revenue O O
-of O O
-the B-movie.name O
-movie I-movie.name O
-avatar I-movie.name B-movie.name
 
 what O O
 is O O
@@ -8088,16 +5683,6 @@ for O O
 in B-movie.name B-movie.name
 july I-movie.name I-movie.name
 
-what O O
-are O O
-the O O
-top O O
-info O O
-about O O
-star B-movie.name B-movie.name
-wars I-movie.name I-movie.name
-episode I-movie.name I-movie.name
-four I-movie.name I-movie.name
 
 how O O
 long O O
@@ -8168,34 +5753,6 @@ movies O O
 with O O
 trailers O O
 
-can O O
-i O O
-see O O
-the O O
-for O O
-upcoming O B-movie.release_date
-warner B-producer.name B-producer.name
-brothers I-producer.name I-producer.name
-movies O O
 
-how O O
-many O O
-woody B-director.name B-director.name
-PERSON I-director.name I-director.name
-movies O O
-are O O
-set O O
-in O O
-new B-movie.location O
-big I-movie.location O
-city I-movie.location O
 
-how O O
-many O O
-scorsese B-producer.name B-director.name
-films O O
-were O O
-filmed O O
-in O O
-GPE B-movie.location B-movie.location
 

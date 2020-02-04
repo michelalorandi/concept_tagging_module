@@ -1409,11 +1409,11 @@ united B-country.name I-country.name
 states I-country.name I-country.name
 
 show O O
-LANGUAGE B-movie.language B-movie.language
+english B-movie.language B-movie.language
 movies O O
 
 search O O
-LANGUAGE B-movie.language B-movie.language
+english B-movie.language B-movie.language
 movies O O
 
 comedy B-movie.genre B-movie.genre
@@ -2594,10 +2594,10 @@ display O O
 all O O
 details O O
 about O O
-star B-movie.name B-movie.name
-wars I-movie.name I-movie.name
-- I-movie.name I-movie.name
-a I-movie.name I-movie.name
+WORK_OF_ART B-movie.name B-movie.name
+WORK_OF_ART I-movie.name I-movie.name
+WORK_OF_ART I-movie.name I-movie.name
+WORK_OF_ART I-movie.name I-movie.name
 new I-movie.name I-movie.name
 hope I-movie.name I-movie.name
 movie O O
@@ -2606,10 +2606,10 @@ get O O
 all O O
 details O O
 about O O
-star B-movie.name B-movie.name
-wars I-movie.name I-movie.name
-- I-movie.name I-movie.name
-a I-movie.name I-movie.name
+WORK_OF_ART B-movie.name B-movie.name
+WORK_OF_ART I-movie.name I-movie.name
+WORK_OF_ART I-movie.name I-movie.name
+WORK_OF_ART I-movie.name I-movie.name
 new I-movie.name I-movie.name
 hope I-movie.name I-movie.name
 movie O O
@@ -3772,8 +3772,8 @@ released O O
 
 when O O
 was O O
-the O B-movie.name
-lord B-movie.name I-movie.name
+the O O
+lord B-movie.name B-movie.name
 of I-movie.name I-movie.name
 the I-movie.name I-movie.name
 rings I-movie.name I-movie.name
@@ -4025,7 +4025,7 @@ all O O
 movies O O
 shown O O
 in O O
-LANGUAGE B-movie.language B-movie.language
+english B-movie.language B-movie.language
 
 
 send O O
@@ -4088,19 +4088,19 @@ show O O
 all O O
 movies O O
 in O O
-LANGUAGE B-movie.language B-movie.language
+spanish B-movie.language B-movie.language
 
 list O O
 of O O
 movies O O
 in O O
 the O B-movie.location
-LANGUAGE B-movie.language B-movie.language
+spanish B-movie.language B-movie.language
 language O I-movie.language
 
 movies O O
 in O O
-LANGUAGE B-movie.language B-movie.language
+spanish B-movie.language B-movie.language
 
 i O O
 am O O
@@ -4108,7 +4108,7 @@ searching O O
 for O O
 movies O O
 in O O
-LANGUAGE B-movie.language B-movie.language
+spanish B-movie.language B-movie.language
 
 i O O
 would O O
@@ -4118,7 +4118,7 @@ look O O
 for O O
 movies O O
 in O O
-LANGUAGE B-movie.language B-movie.language
+spanish B-movie.language B-movie.language
 
 
 
@@ -4629,27 +4629,7 @@ looper B-movie.name B-movie.name
 gross O O
 
 
-how O O
-much O O
-money O O
-did O O
-mr B-movie.name B-movie.name
-and I-movie.name I-movie.name
-mrs I-movie.name I-movie.name
-smith I-movie.name I-movie.name
-make O O
 
-how O O
-much O O
-money O O
-did O O
-the O O
-movie O O
-mr B-movie.name B-movie.name
-and I-movie.name I-movie.name
-mrs I-movie.name I-movie.name
-smith I-movie.name I-movie.name
-make O O
 
 
 
@@ -5152,7 +5132,7 @@ happy O B-movie.name
 
 sort O O
 by O O
-LANGUAGE B-movie.language O
+spanish B-movie.language B-movie.language
 
 where O O
 is O O
@@ -5603,13 +5583,13 @@ the O O
 movie O O
 is O O
 in O O
-LANGUAGE B-movie.language B-movie.language
+english B-movie.language B-movie.language
 
 is O O
 this O O
 movie O O
 in O O
-LANGUAGE B-movie.language B-movie.language
+english B-movie.language B-movie.language
 
 do O O
 they O O
@@ -5753,15 +5733,6 @@ and I-movie.name I-movie.name
 me I-movie.name I-movie.name
 receive O O
 
-what O O
-is O O
-the O O
-rating O O
-for O O
-mr B-movie.name B-movie.name
-and I-movie.name I-movie.name
-mrs I-movie.name I-movie.name
-smith I-movie.name I-movie.name
 
 what O O
 rating O O
