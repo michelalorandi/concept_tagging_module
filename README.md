@@ -4,6 +4,8 @@ First project for the 2018/2019 Language Understanding Systems course @ UniTn
 ## Requirements 
 In order to properly execute the program, you must have installed the python libraries in the `requirements.txt` file in the root of the repository. 
 
+Download the CoreNLP [here](http://nlp.stanford.edu/software/stanford-corenlp-full-2016-10-31.zip) and add the directory in the root folder. 
+
 ## Concept tagging module for movie domain 
 The concept tagging module is implemented in the version: baseline, first improvement and second improvement. All the three version can be executed using the `./concept_tagging.py` script with the following command: 
 
@@ -23,6 +25,8 @@ All the dataset used can be found in the `./Datasets` folder. The `./training_se
 where the tags set assumes the following values: all, pers, pers_org, pers_lang, pers_ev, pers_art, pers_art_gpe or pers_art_gpe_norp. 
 
 With the command `python training_set_generation.py -h` we can see the help message. 
+
+The `./stanford-corenlp-full-2016-10-31` folder is used in the generation of new datasets for the execution of the CoreNLP TrueCaseAnnotator.
 
 ### Evaluation 
 For the evaluation part, the `./conlleval.pl script` can be used as follow:  
