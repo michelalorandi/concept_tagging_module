@@ -4,7 +4,7 @@ First project for the 2018/2019 Language Understanding Systems course @ UniTn
 ## Requirements 
 In order to properly execute the program, you must have installed the python libraries in the `requirements.txt` file in the root of the repository. 
 
-Download the CoreNLP [here](http://nlp.stanford.edu/software/stanford-corenlp-full-2016-10-31.zip) and add the directory in the root folder. 
+If you want to generate a new dataset, download the CoreNLP [here](http://nlp.stanford.edu/software/stanford-corenlp-full-2016-10-31.zip) and add the directory in the root folder. 
 
 ## Concept tagging module for movie domain 
 The concept tagging module is implemented in the version: baseline, first improvement and second improvement. All the three version can be executed using the `./concept_tagging.py` script with the following command: 
