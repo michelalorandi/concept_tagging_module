@@ -26,6 +26,6 @@ srsly==1.0.1
 thinc==7.3.1
 torch==1.4.0
 tqdm==4.41.1
-urllib3==1.25.8
+urllib3==1.26.5
 wasabi==0.6.0
 zipp==1.0.0
